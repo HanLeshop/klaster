@@ -24,11 +24,15 @@
 
 ### Задание 1
 
+
 **Servers**
+
 ![servers](servers.jpg)
 
 
+
 **Haproxy**
+
 ![haproxy](haproxy.jpg)
 
 
@@ -109,11 +113,16 @@ listen web_tcp
 ```
 
 **log**
+
 ![log](log.jpg)
 
 
+
+
 **curl**
+
 ![curl](curl.jpg)
+
 
 
 ---
